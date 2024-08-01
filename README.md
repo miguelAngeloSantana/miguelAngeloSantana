@@ -1,7 +1,7 @@
 ### Olá, eu sou o Miguel Ângelo
 
 - 🔭 Atulmente faço projetos focados em front-end enquanto busco minha primeira oportunidade no mercado
-- 🌱 Estou estudando JavaScript e React
+- 🌱 Estou estudando TypeScript e NodeJS
 
 <div  align="center">  
   <a href="https://github.com/miguelAngeloSantana"> 
