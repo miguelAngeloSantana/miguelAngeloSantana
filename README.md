@@ -1,18 +1,27 @@
 ### Olá, eu sou o Miguel Ângelo
 
-- 🔭 Graduado em Tecnologo em Analise e Desenvolvimento de Sistemas pelo Senac. Desenvolvedor front-end apaixonado por conhecimento, busco aprender cada vez mais, aplicando tudo que estudei em projetos que desenvolvo. Procuro sempre levar em consideração a qualidade do código e a experiência do usuário.
+🔭 Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Senac. Desenvolvedor front-end apaixonado por conhecimento, busco aprender cada vez mais, aplicando tudo que estudei em projetos que desenvolvo. Procuro sempre levar em consideração a qualidade do código e a experiência do usuário.
+  
+Sempre uso o figma para criar UI Design antes de inicar meus projetos 
 
-<div  align="center">  
+<!-- <div  align="center">  
   <a href="https://github.com/miguelAngeloSantana"> 
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelAngeloSantana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   
   <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelAngeloSantana&layout=compact&theme=tokyonight"/>
+  
     
-</div>
+</div> -->
   
 ## Linguagens e tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<div style="display: inline_block">
+  <ul>
+    <li>Frontend - TypeScript, React, NextJS, Tailwindcss, Redux</li>
+    <li>Backend - NodeJS</li>
+    <li> Banco de dados - MySQL, PostgreSQL, MongoDB</li>
+    <li>Ferramentas - Git, Figma</li>
+  </ul>
+  <!-- <img align="center" alt="HTML" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -25,7 +34,7 @@
   <img align="center" atl="PostgreSQL" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="FireBase" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Redux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> -->
 </div> 
 
 ## Contatos
