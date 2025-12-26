@@ -1,7 +1,6 @@
 ### Olá, eu sou o Miguel Ângelo
 
-- 🔭 Atulmente faço projetos focados em front-end enquanto busco minha primeira oportunidade no mercado
-- 🌱 Estou estudando TypeScript e NodeJS
+- 🔭 Graduado em Tecnologo em Analise e Desenvolvimento de Sistemas pelo Senac. Desenvolvedor front-end apaixonado por conhecimento, busco aprender cada vez mais, aplicando tudo que estudei em projetos que desenvolvo. Procuro sempre levar em consideração a qualidade do código e a experiência do usuário.
 
 <div  align="center">  
   <a href="https://github.com/miguelAngeloSantana"> 
@@ -23,6 +22,7 @@
   <img align="center" alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="tailwindcss" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="MySQL" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" atl="PostgreSQL" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="FireBase" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Redux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
